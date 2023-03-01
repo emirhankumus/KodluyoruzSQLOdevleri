@@ -1,4 +1,4 @@
-- Patika Profilim:[emirhankumus](https://app.patika.dev/emirhankumus)
+- Patika Profilim: [emirhankumus](https://app.patika.dev/emirhankumus)
 
 ## DISTINCT ve COUNT Odevi
 
